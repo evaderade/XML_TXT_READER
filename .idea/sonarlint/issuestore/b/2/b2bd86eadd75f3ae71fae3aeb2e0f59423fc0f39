@@ -1,0 +1,14 @@
+
+^squid:S1854<";Remove this useless assignment to local variable "contact".(ğ¯şƒşÿÿÿÿ8ôšƒ-
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(î¤Á8ëÑšƒ-
+<squid:S2129+"Remove this "Long" constructor(êó×Ì8“«“ş-
+^squid:S1854B";Remove this useless assignment to local variable "contact".(ËäØùÿÿÿÿ8ôšƒ-
+Osquid:S1481B",Remove this unused "contact" local variable.(ËäØùÿÿÿÿ8ôšƒ-
+Osquid:S1481<",Remove this unused "contact" local variable.(ğ¯şƒşÿÿÿÿ8ôšƒ-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(“¾É·8İÀáı-
+Jsquid:S1481E",Remove this unused "contact" local variable.(‹Î†“8ôšƒ-
+^squid:S1854?";Remove this useless assignment to local variable "contact".(©ÎÌ±ıÿÿÿÿ8ôšƒ-
+Fsquid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ôšƒ-
+Ysquid:S1854E";Remove this useless assignment to local variable "contact".(‹Î†“8ôšƒ-
+Osquid:S1481?",Remove this unused "contact" local variable.(©ÎÌ±ıÿÿÿÿ8ôšƒ-

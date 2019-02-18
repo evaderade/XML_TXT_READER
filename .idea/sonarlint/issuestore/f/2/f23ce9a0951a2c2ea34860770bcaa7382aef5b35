@@ -1,0 +1,5 @@
+
+vsquid:S1450"YRemove the "connection" field and declare it as a local variable in the relevant methods.(ÒÁÏ.8š¤ïä-
+j$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ôûŠıÿÿÿÿ8š¤ïä-
+|squid:S1450"YRemove the "properties" field and declare it as a local variable in the relevant methods.(Ì’™úÿÿÿÿ8š¤ïä-
+]squid:S1118":Add a private constructor to hide the implicit public one.(ØŞĞğÿÿÿÿÿ8š¤ïä-

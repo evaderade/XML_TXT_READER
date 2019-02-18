@@ -1,0 +1,31 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+Q
+!src/main/resources/dane-osoby.xml,5\5\550868189f5d7ae457f87c247dc5f26172156e0c
+Q
+!src/main/resources/dane-osoby.txt,b\4\b42f00ab95c67e900a2ed280c650cba920ce28c3
+Y
+)src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
+R
+"src/main/java/config/DbConfig.java,f\2\f23ce9a0951a2c2ea34860770bcaa7382aef5b35
+Z
+*src/main/java/config/PropertiesConfig.java,e\5\e50ebe50ec70a0a71d06b36f2a719d5d83a80750
+G
+src/main/java/Main.java,e\4\e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
+Q
+!src/main/java/ProcessXmlFile.java,6\0\604e1a9ba5a14d89bf6b5d9a89db967f242f8e71
+S
+#src/main/java/entity/Customers.java,7\7\77ec8a3e34aa2251ca1f191d1dab3a5a2a7c18fe
+Q
+!src/main/java/ProcessTxtFile.java,b\2\b2bd86eadd75f3ae71fae3aeb2e0f59423fc0f39
+R
+"src/main/java/entity/Contacts.java,1\e\1edb54dcd6f7a19e3fb11bfb4e4b792c852f00b4
+O
+src/main/java/pojo/Contact.java,e\5\e5218ecbd1f94cc392b4cd9649783c458efb8529
+O
+src/main/java/pojo/Persons.java,6\2\62e3bf0e0da767c678db07b6282e0ef6a8c5f158
+N
+src/main/java/pojo/Person.java,7\6\7611ba50cbf4d4c03040997fac9920f59fac418c
+S
+#src/main/java/StatementFactory.java,f\4\f46eed0c755c013223a0c30ac11de5951a151c79
